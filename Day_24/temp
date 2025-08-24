@@ -12,3 +12,4 @@ logout() (depends on search)
 
  5.Use Data Provider to supply multiple sets of usernames/passwords to a login test.
  6.Run test cases in parallel (methods, classes, tests) using parallel attribute in testng.xml.
+
